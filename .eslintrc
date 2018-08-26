@@ -1,0 +1,9 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "no-underscore-dangle": 0,
+    "arrow-body-style": 0,
+    "import/no-unresolved": [2, { ignore: ['\.png$'] }],
+    "global-require": 0
+  }
+}
