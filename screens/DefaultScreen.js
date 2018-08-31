@@ -1,7 +1,10 @@
 import React from 'react';
 import { ScrollView, View, TouchableHighlight, Text, StyleSheet } from 'react-native';
 import { Video } from 'expo';
-import VideoPlayer from '@expo/videoplayer';
+
+//import VideoPlayer from '@expo/videoplayer';
+import VideoPlayer from '../components/videoplayer';
+
 import BaseScreen from './BaseScreen';
 
 var styles = StyleSheet.create({

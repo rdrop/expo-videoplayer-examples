@@ -16,9 +16,12 @@
     "@expo/samples": "2.1.1",
     "@expo/videoplayer": "^0.4.0",
     "expo": "29.0.0",
+    "prop-types": "^15.6.2",
     "react": "16.3.1",
+    "react-mixin": "^4.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
-    "react-navigation": "^2.9.3"
+    "react-navigation": "^2.9.3",
+    "react-timer-mixin": "^0.13.4"
   },
   "devDependencies": {
     "eslint-config-rallycoding": "^3.2.0",

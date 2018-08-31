@@ -1,0 +1,3 @@
+[submodule "components/videoplayer"]
+	path = components/videoplayer
+	url = git@gitlab.com:ne-plus-ultra/learning-application/expo-videoplayer.git
